@@ -1,5 +1,4 @@
-## Sobre mi
-Soy Aser Granado; estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Soy Aser Granado Amores; estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 Me llama mucho la atención la Programación de Gráficos y el diseño de Motores de Videojuegos.
 
